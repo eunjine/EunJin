@@ -1,7 +1,7 @@
 # 뱀게임
 
- " import pygame
- " import sys
+import pygame
+import sys
 import time
 import random
 
